@@ -9,11 +9,12 @@
 
 body {
     background-color: var(--bg-color);
-}color: var(--primary-color);
-font-family: var(--font);
+    color: var(--primary-color);
+    font-family: var(--font);
 }
+
 h1 {
     font-size: 2rem;
     color: var(--bg-color);
-     font-weight: 700;
+    font-weight: 700;
 }
